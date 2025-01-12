@@ -10,9 +10,9 @@ Key features:
 - Sentiment Analysis: Analyzing the sentiment of text data to categorize it into positive, negative, or neutral.
 - Text Classification: Categorizing text into predefined classes using machine learning techniques.
 - Technologies Used:
- - Python
- - NLTK library
- - Pandas (for data handling)
- - Scikit-learn (for machine learning models)
+ -- Python
+ -- NLTK library
+ -- Pandas (for data handling)
+ -- Scikit-learn (for machine learning models)
 
 This project showcases fundamental NLP tasks, providing insights into text mining and machine learning applications in the field of natural language understanding.
